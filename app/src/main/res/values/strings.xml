@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Alarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="detay_ekrani">Alarm Detay Ekranı</string>
+
+</resources>
